@@ -16,7 +16,9 @@ spl_autoload_register('class_auto_load');
 
 
 
-
+function redirect($location){
+	header("Location: {$location}");
+}
 
 
 
