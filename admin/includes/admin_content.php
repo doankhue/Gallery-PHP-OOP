@@ -14,7 +14,7 @@
                     //     echo $row['username'] . "<br>";
                     // }
                     $found_user = User::find_user_by_id(1);
-                    echo $found_user->username;
+                    // echo $found_user->username;
                     // $user = User::instantation($found_user);
                     // echo '<pre>'; print_r($user); echo '</pre>';
                     // echo $user['username'];

@@ -21,19 +21,19 @@ class User
 	}
 
 	public static function find_user_by_id($id){
-		// global $database;
+		global $database;
 		$the_result_array = self::find_this_query("SELECT * FROM users WHERE id=$id");
 		return !empty($the_result_array) ? array_shift($the_result_array) : false ; 
 	}
 
 	public static function find_this_query($sql){
-		// global $database;
+		global $database;
 		$result = $database->query($sql);
 		$the_object_array = array();
 		while ($row = mysqli_fetch_array($result)) {
 			$the_object_array[] = self::instantation($row);
 		}
-
+		// var_dump($the_object_array);
 		return $the_object_array;
 	}
 
@@ -59,10 +59,8 @@ class User
 		$username = $database->escape_string($username);
 		$password = $database->escape_string($password);
 
-		$sql = "SELECT * FROM users WHERE";
-		$sql .= "username = '{$username}' ";
-		$sql .= "AND password = '{$password}' ";
-		$sql .= "LIMIT 1' ";
+		$sql = "SELECT * FROM users WHERE username = '$username' AND password = '$password' LIMIT 1";
+
 		$the_result_array = self::find_this_query($sql);
 		return !empty($the_result_array) ? array_shift($the_result_array) : false ; 
 	}
