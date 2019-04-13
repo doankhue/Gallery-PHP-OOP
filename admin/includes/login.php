@@ -12,6 +12,10 @@ if(isset($_POST['submit'])){
 
 	$password = trim($_POST['password']);
 
+
+	//Check user
+	$user_found = User::verify_user($username,$password);
+
 	if($user_found){
 		$sessiton->login($user_found);
 		redirect("index.php");
