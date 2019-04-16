@@ -53,7 +53,7 @@ class User
 	}
 
 
-	//Check user function
+	//Check user exit function
 	public function verify_user($username,$password){
 		global $database;
 		$username = $database->escape_string($username);
