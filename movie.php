@@ -107,3 +107,30 @@ evil dead
 happy dead day 2017
 blade runner 2049
 Jack Ryan: Shadow Recruit (2014)
+
+
+1. Trân Châu C?ng ( Phim Hay) 
+2. Lính th?y dánh b?
+3. Chi?n binh don d?c (Lone Survivor)
+4.Di?u hâu gãy cánh (Black Hawk Down)
+5. Chi?n H?m Indianapolis 
+6. Ngu?i Hùng Không Súng( Hacksaw Ridge)
+7. Cu?ng N? (Fury)
+8. Cu?c di t?n Dunkirk
+9. 28 C?m T? Quân 
+10. 13hours lính ng?m benghazi
+11. 12 K? Binh Qu? C?m 
+12. Lính B?n T?a M?
+13. Gi?i C?u Binh Nhì Ryan ( Phim Hay) 
+14. Quân Nhân 
+15. N? X? Th? 
+16. Trong lòng tuy?t tr?ng 
+17. Phi Ð?i Phi Công 
+18. Áo Giáp S?t 
+19. Gi?i C?u Lúc Bình Minh 
+20. Bi?t Kích Ng?m 
+21. Chi?n D?ch Sói Sa M?c 
+22. The Thin Red Line (1998)
+23. Inglourious Basterds (2009) 
+24. K? Thù Tru?c C?ng 
+25. Ng?n C? Chi?n Th?ng(Flags Of Our Farther) 
